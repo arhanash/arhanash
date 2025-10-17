@@ -66,17 +66,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/arhanash/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/arhanashraf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=arhanashraf&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
